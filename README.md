@@ -80,18 +80,3 @@ techniques.
 🍂 Amateur de cigares  
 📡 Toujours un œil sur ce qui se passe dans l'industrie
 
----
-
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://ghchart.rshah.org/39d353/bottaalexandre"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://ghchart.rshah.org/216e39/bottaalexandre"
-    />
-    <img alt="Contribution chart" src="https://ghchart.rshah.org/bottaalexandre" />
-  </picture>
-</p>
