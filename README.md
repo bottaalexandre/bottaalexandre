@@ -24,7 +24,7 @@ nouvelles architectures, outils, pratiques, etc... parce que rester curieux fait
 ## 💼 Ce sur quoi je travaille
 
 ### Hikon
-*Fitness & coaching platform — en cours*
+*Fitness & coaching platform — en cours: [hikon.app]([https://hikon.app/)*
 
 Application mobile pensée pour les athlètes et les coachs, avec un modèle 
 B2C/B2B et des features IA en roadmap.
@@ -68,7 +68,8 @@ techniques.
 ## 🎓 Formation & certifications
 
 - **Brevet Fédéral Informaticien·ne de Gestion** *(en cours — ISEIG)*
-- Scrum Master · Scrum Product Owner
+- Scrum Master
+- Scrum Product Owner
 
 ---
 
@@ -82,5 +83,5 @@ techniques.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bottaalexandre&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=bottaalexandre&theme=dark&hide_border=true" />
 </p>
