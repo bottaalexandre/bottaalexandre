@@ -83,5 +83,15 @@ techniques.
 ---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/bottaalexandre" alt="Alexandre's contribution chart" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://ghchart.rshah.org/39d353/bottaalexandre"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://ghchart.rshah.org/216e39/bottaalexandre"
+    />
+    <img alt="Contribution chart" src="https://ghchart.rshah.org/bottaalexandre" />
+  </picture>
 </p>
