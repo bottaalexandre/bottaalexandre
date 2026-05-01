@@ -83,5 +83,5 @@ techniques.
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bottaalexandre&theme=github-compact&hide_border=true&count_private=true" />
+  <img src="https://ghchart.rshah.org/bottaalexandre" alt="Alexandre's contribution chart" />
 </p>
