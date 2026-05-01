@@ -24,7 +24,7 @@ nouvelles architectures, outils, pratiques, etc... parce que rester curieux fait
 ## 💼 Ce sur quoi je travaille
 
 ### Hikon
-*Fitness & coaching platform — en cours: [hikon.app]([https://hikon.app/)*
+*Fitness & coaching platform — en cours · [hikon.app](https://hikon.app/fr)*
 
 Application mobile pensée pour les athlètes et les coachs, avec un modèle 
 B2C/B2B et des features IA en roadmap.
@@ -83,5 +83,5 @@ techniques.
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bottaalexandre&theme=dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bottaalexandre&theme=github-compact&hide_border=true&count_private=true" />
 </p>
